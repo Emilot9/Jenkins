@@ -24,7 +24,7 @@ void printArray(int arr[], int size) {
 
 int main() {
     // Wymóg z zadania:
-    printf("Witaj! Moje imie i nazwisko to: [Wpisz tu swoje dane]\n");
+    printf("TO ja EMil 53313\n");
     printf("Oto prosty program sortujacy w C uruchomiony przez Jenkinsa.\n\n");
 
     int arr[] = {64, 34, 25, 12, 22, 11, 90};
